@@ -26,6 +26,9 @@ Currency Formatting: Converted the 'Income' column to a standard currency format
 
 Dashboard Highlights
 
+<img width="2560" height="1920" alt="Bike sales dashboard" src="https://github.com/user-attachments/assets/d8435506-1810-4514-b573-8e1928c36d4d" />
+
+
 Key Interactive Features:
 
 Slicers: Filter the entire dashboard by Region, Education, or Marital Status.
