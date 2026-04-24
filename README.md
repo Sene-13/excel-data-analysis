@@ -10,6 +10,7 @@ Tools Used
 
 Microsoft Excel: Data Cleaning, Pivot Tables, Pivot Charts, and Dashboard Design.
 
+
 Data Cleaning Process
 
 Before analysis, I performed the following steps to ensure data integrity:
@@ -22,6 +23,7 @@ Feature Engineering: Created an Age Brackets column (Adolescent, Middle Age, Old
 
 Currency Formatting: Converted the 'Income' column to a standard currency format for clarity.
 
+
 Dashboard Highlights
 
 Key Interactive Features:
@@ -32,6 +34,7 @@ Average Income Chart: Compares the income of buyers vs. non-buyers.
 
 Commute Distance Analysis: Shows how the likelihood of buying a bike decreases as commute distance increases.
 
+
 Key Insights
  
 Top Buyers: Middle-aged individuals (ages 31–45) are the most frequent purchasers.
@@ -39,6 +42,7 @@ Top Buyers: Middle-aged individuals (ages 31–45) are the most frequent purchas
 Income Factor: Customers with higher average incomes are significantly more likely to purchase a bike.
 
 Commute Influence: People with shorter commutes (0–1 miles) have the highest conversion rate.
+
  
 How to View
 
