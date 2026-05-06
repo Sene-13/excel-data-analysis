@@ -2,6 +2,9 @@
 
 A comprehensive analysis of customer demographics and purchasing behavior to drive bike sales strategy.
 
+## Business Impact
+Focusing on the core Office Applications required for executive support, I built an interactive dashboard using Pivot Tables and Advanced Excel. This tool allows a manager to track performance metrics at a glance, proving I can create the graphical presentations needed to monitor a directorate’s KPIs
+
 ## Project Overview
 
 This project analyzes a dataset of 1,000 customers to identify key factors that influence bike purchases. By cleaning raw data and building an interactive dashboard in Excel, I've uncovered trends related to income, age, and commute distance to help a hypothetical bike retailer target the right audience.
